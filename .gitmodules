@@ -1,0 +1,6 @@
+[submodule "bundle/vim-twilight"]
+        path = bundle/vim-twilight
+        url = https://github.com/matthewtodd/vim-twilight.git
+[submodule "bundle/vim-pathogen"]
+        path = bundle/vim-pathogen
+        url = https://github.com/tpope/vim-pathogen.git
